@@ -1,4 +1,4 @@
-#include "./block.h"
+#include "../block.h"
 #include <iostream> 
 
 extern "C"{
